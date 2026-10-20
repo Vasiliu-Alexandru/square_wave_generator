@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Module name="square_wave_generator" Register="65" Alu="27" Lut="102" T_Register="88(65)" T_Alu="27(27)" T_Lut="143(102)">
+<Module name="square_wave_generator" Register="270" Alu="52" Lut="523" T_Register="316(270)" T_Alu="52(52)" T_Lut="600(523)">
  <SubModule name="pll_i"/>
- <SubModule name="debouncer_1" Register="23" Lut="41" T_Register="23(23)" T_Lut="41(41)"/>
+ <SubModule name="debouncer_1" Register="23" Lut="38" T_Register="23(23)" T_Lut="38(38)"/>
+ <SubModule name="debouncer_2" Register="23" Lut="39" T_Register="23(23)" T_Lut="39(39)"/>
 </Module>
