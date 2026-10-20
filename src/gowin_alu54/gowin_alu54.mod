@@ -1,0 +1,22 @@
+-series GW1NR
+-device GW1NR-9
+-device_version C
+-package QFN88P
+-part_number GW1NR-LV9QN88PC6/I5
+
+
+-mod_name Gowin_ALU54
+-file_name gowin_alu54
+-path C:/_Data/repositories/square_wave_generator/src/gowin_alu54/
+-type ALU
+-file_type vlg
+-ip_version 1.0
+-alu_mode 0
+-width_a 32
+-data_type_a unsigned
+-ina_reg bypass
+-width_b 1
+-data_type_b unsigned
+-inb_reg bypass
+-reset_mode sync
+-out_reg bypass

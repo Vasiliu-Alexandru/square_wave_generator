@@ -1,0 +1,17 @@
+-d C:\_Data\repositories\square_wave_generator\impl\gwsynthesis\square_wave_generator.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst C:\_Data\repositories\square_wave_generator\src\square_wave_generator.cst
+-cfg C:\_Data\repositories\square_wave_generator\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-place_option 0
+-route_option 0
+-retiming_resource none
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000
