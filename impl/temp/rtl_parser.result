@@ -1,15 +1,15 @@
 [
     {
         "InstFile": "C:/_Data/repositories/square_wave_generator/src/square_wave_generator.v",
-        "InstLine": 1,
+        "InstLine": 7,
         "InstName": "square_wave_generator",
         "ModuleFile": "C:/_Data/repositories/square_wave_generator/src/square_wave_generator.v",
-        "ModuleLine": 1,
+        "ModuleLine": 7,
         "ModuleName": "square_wave_generator",
         "SubInsts": [
             {
                 "InstFile": "C:/_Data/repositories/square_wave_generator/src/square_wave_generator.v",
-                "InstLine": 11,
+                "InstLine": 19,
                 "InstName": "pll_i",
                 "ModuleFile": "C:/_Data/repositories/square_wave_generator/src/gowin_rpll/gowin_rpll.v",
                 "ModuleLine": 11,
@@ -17,7 +17,7 @@
             },
             {
                 "InstFile": "C:/_Data/repositories/square_wave_generator/src/square_wave_generator.v",
-                "InstLine": 20,
+                "InstLine": 28,
                 "InstName": "debouncer_1",
                 "ModuleFile": "C:/_Data/repositories/square_wave_generator/src/debouncer.v",
                 "ModuleLine": 1,
@@ -25,7 +25,7 @@
             },
             {
                 "InstFile": "C:/_Data/repositories/square_wave_generator/src/square_wave_generator.v",
-                "InstLine": 24,
+                "InstLine": 32,
                 "InstName": "debouncer_2",
                 "ModuleFile": "C:/_Data/repositories/square_wave_generator/src/debouncer.v",
                 "ModuleLine": 1,
